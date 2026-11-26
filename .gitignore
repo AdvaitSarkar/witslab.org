@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local environments and dependencies
+.venv/
+venv/
+node_modules/
+__pycache__/
+
+# Logs and temp files
+*.log
+*.tmp

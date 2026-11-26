@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WITS Lab blog</title>
+    <link>https://witslab.org/blog/</link>
+    <atom:link href="https://witslab.org/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Essays and updates from WITS Lab.</description>
+    <language>en-gb</language>
+    <!-- Add one <item> per post, newest first. See _templates/README.md. -->
+  </channel>
+</rss>
